@@ -1,6 +1,5 @@
 Steps to make the registration work:
 
-
 1) restart the mysql server `sudo service mysql restart` or `sudo systemctl restart mysql`
 2) execute the javascript file `js/node/nodjs reg.js`
 3) restart the nginx server `sudo service nginx restart` or `sudo systemctl restart nginx`
